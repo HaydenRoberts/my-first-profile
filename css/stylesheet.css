@@ -1,0 +1,21 @@
+.bio {
+    color: rgb(11, 133, 170);
+}
+
+.title {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.bio_pic {
+    display: block;
+    margin: 0 auto;
+    border: 10px double rgb(189, 24, 24);
+}
+
+h2 {
+    text-align: center;
+}
